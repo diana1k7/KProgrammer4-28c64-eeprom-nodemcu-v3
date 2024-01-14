@@ -2,6 +2,6 @@ KProgrammer4 is an eeprom programmer that lets you write to 28c64 eeprom, 24c se
 
 I liked beneater's design of using 74595 and 74165 chips. What I thought is that with adafruit mcp23017, the project has the ability for multiple dynamic pin mapping using the 28c64 eeprom as the first example.
 
-version 1 uses a nodemcu v3 along with (4) 74595 and (1) 74165 with static pin mapping.
+version 1 uses a nodemcu v3 along with (4) 74595 and (1) 74165 with static pin mapping. An update to beneater's eeprom project with additional capabilities.
 
-version 2 uses esp32, devkit1, along with (2) mcp23017 and dynamic pin mapping.
+version 2 uses esp32, devkit1, along with (2) mcp23017 and dynamic pin mapping and additional capabilities.
