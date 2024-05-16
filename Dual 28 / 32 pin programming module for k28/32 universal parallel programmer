@@ -1,0 +1,8 @@
+hi,
+
+the dual programmer module allows for single 28 or 32 pin programming using the kiot-300 universal parralwl programmer. I made these two devices to make it easier to prohram using a 36 pin bus that is not dependent on various programs. instead, it is a manner of an 8 bit data bus, 20 bit address bus (18 pins and vpp implemented. 2 reserved as a18 / a19 for 40 pin use), powerful pins.
+
+let me know what you think,
+
+diana
+Diana
