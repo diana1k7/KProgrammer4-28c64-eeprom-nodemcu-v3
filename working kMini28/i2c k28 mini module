@@ -1,0 +1,5 @@
+thos is the breadboard module using an i2c interface allowing for connection of i2c eeprom with external power supplied from mcu module. the design allows for multiple mcu's that use an i2c as nodemcu v3, esp32 devkit 2, and newer modules.
+
+let me know what you think,
+
+Diana
