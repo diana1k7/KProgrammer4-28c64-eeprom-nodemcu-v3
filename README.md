@@ -1,3 +1,9 @@
+July 30, 2025
+updated with my arduino code for serial console eeprom programmer and using mc23017 to code eeproms.
+
+let me know what you think.
+
+
 May 8, 2024
 Schematics forthcoming ...
 I use kicad, pcbway, pcb artist.
